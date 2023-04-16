@@ -1,0 +1,27 @@
+p {
+  color: red;
+  font-family: arial;
+}
+.destacado {
+  background-color: yellow;
+  font-weight: bold;
+}
+#encabezado-principal {
+  font-size: 32px;
+  color: rgb(29, 29, 67);
+}
+ol li {
+  font-style: italic;
+}
+ul > li {
+  list-style: square;
+}
+a[href="https"] {
+  color: rgb(252, 181, 0);
+}
+div .text {
+  color: red;
+}
+.text {
+  color: blue;
+}
